@@ -1,4 +1,20 @@
 baseURL: "https://thesustainableloop.com"
-languageCode: "en-us"
 title: "The Sustainable Loop"
 theme: "dimension"
+enableRobotsTXT: true
+disableKinds:
+    - RSS
+
+Params:
+    iconclass: "fa-gem"
+    #logo: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Font_Awesome_5_regular_gem.svg"
+
+defaultContentLanguage: "en"
+defaultContentLanguageInSubdir: true
+languages:
+    en:
+        languageName: "English"
+        description: 'Consulting & Research for Eco-Fair Clothing'
+    de:
+        languageName: "Deutsch"
+        description: 'Beratung & Forschung zu öko-fairer Kleidung'
