@@ -9,12 +9,12 @@ Params:
     iconclass: "fa-gem"
     #logo: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Font_Awesome_5_regular_gem.svg"
 
-defaultContentLanguage: "en"
+defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 languages:
-    en:
-        languageName: "English"
-        description: 'Consulting & Research for Eco-Fair Clothing'
     de:
-        languageName: "Deutsch"
-        description: 'Beratung & Forschung zu öko-fairer Kleidung'
+        languageName: Deutsch
+        description: "Beratung & Forschung zu öko-fairer Kleidung"
+    en:
+        languageName: English
+        description: "Consulting & Research for Eco-Fair Clothing"
