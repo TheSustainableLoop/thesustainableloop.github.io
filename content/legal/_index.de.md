@@ -1,0 +1,5 @@
+---
+title: Rechtliches
+aliases:
+  - rechtliches
+---
