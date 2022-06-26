@@ -1,6 +1,7 @@
 ---
-title: Privacy Policy
-slug: privacy
+title: Privacy
+Weight: 2
+type: bottomnav
 translationKey: privacy
 ---
 

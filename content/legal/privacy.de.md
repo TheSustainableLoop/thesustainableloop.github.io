@@ -1,8 +1,7 @@
 ---
-title: Datenschutzerklärung
-slug: datenschutz
-aliases:
-  - datenschutz
+title: Datenschutz
+Weight: 2
+type: bottomnav
 translationKey: privacy
 ---
 
