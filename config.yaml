@@ -13,9 +13,9 @@ Params:
     - iconurl: /images/esf.png
     social:
     - type: linkedin
-      url: "https://www.linkedin.com"
+      url: "https://www.linkedin.com/in/mirjam-born-b75a88170"
     - type: instagram
-      url: "https://www.instagram.com"
+      url: "https://www.instagram.com/the.sustainable.loop"
 
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
