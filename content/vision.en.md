@@ -6,7 +6,7 @@ Weight: 20
 We would like to make it easier for small and medium-sized fashion labels
 to access sustainable materials and production processes in the knitwear sector.
 
-### Connecting research, innovation and SMEs.
+### Connecting research, innovation and small businesses
 
 Although there is already a lot of research and innovation
 in the field of sustainable materials for textile production,
