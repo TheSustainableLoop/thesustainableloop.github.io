@@ -1,5 +1,6 @@
 ---
 Title: About
+Weight: 30
 ---
 
 My name is Mirjam Born and I am the founder of *The Sustainable Loop*.
