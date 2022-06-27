@@ -6,8 +6,7 @@ disableKinds:
     - RSS
 
 Params:
-    iconclass: "fa-gem"
-    #logo: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Font_Awesome_5_regular_gem.svg"
+    logo: "/images/thesustainableloop.png"
     supporterLogos:
     - iconurl: /images/impacthub.png
     - iconurl: /images/berlin.png
