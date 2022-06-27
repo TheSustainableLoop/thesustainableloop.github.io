@@ -8,6 +8,15 @@ disableKinds:
 Params:
     iconclass: "fa-gem"
     #logo: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Font_Awesome_5_regular_gem.svg"
+    supporterLogos:
+    - iconurl: /images/impacthub.png
+    - iconurl: /images/berlin.png
+    - iconurl: /images/esf.png
+    social:
+    - type: linkedin
+      url: "https://www.linkedin.com"
+    - type: instagram
+      url: "https://www.instagram.com"
 
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
@@ -15,6 +24,8 @@ languages:
     de:
         languageName: Deutsch
         description: "Beratung & Forschung zu öko-fairer Kleidung"
+        supporterTitle: "Unterstützt durch:"
     en:
         languageName: English
         description: "Consulting & Research for Eco-Fair Clothing"
+        supporterTitle: "Supported by:"
