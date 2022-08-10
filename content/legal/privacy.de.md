@@ -468,24 +468,11 @@ Informationen aus anderen Quellen verbunden werden.
     Icons werden auf unserem Server gehostet, es werden keine Daten an
     den Anbieter von Font Awesome übermittelt; **Rechtsgrundlagen:**
     Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).
--   **Google Fonts (Bezug vom Google Server):** Bezug von Schriften (und
-    Symbolen) zum Zwecke einer technisch sicheren, wartungsfreien und
-    effizienten Nutzung von Schriften und Symbolen im Hinblick auf
-    Aktualität und Ladezeiten, deren einheitliche Darstellung und
-    Berücksichtigung möglicher lizenzrechtlicher Beschränkungen. Dem
-    Anbieter der Schriftarten wird die IP-Adresse des Nutzers
-    mitgeteilt, damit die Schriftarten im Browser des Nutzers zur
-    Verfügung gestellt werden können. Darüber hinaus werden technische
-    Daten (Spracheinstellungen, Bildschirmauflösung, Betriebssystem,
-    verwendete Hardware) übermittelt, die für die Bereitstellung der
-    Schriften in Abhängigkeit von den verwendeten Geräten und der
-    technischen Umgebung notwendig sind; **Dienstanbieter:** Google
-    Irland Limited, Gordon House, Barrow Street, Dublin 4, Irland,
-    Mutterunternehmen: Google LLC, 1600 Amphitheatre Parkway, Mountain
-    View, CA 94043, USA; **Rechtsgrundlagen:** Berechtigte Interessen
-    (Art. 6 Abs. 1 S. 1 lit. f. DSGVO); **Website:**
-    <https://fonts.google.com/>; **Datenschutzerklärung:**
-    <https://policies.google.com/privacy>.
+-   **Google Fonts (Bereitstellung auf eigenem Server):** Darstellung
+    von Schriften (und Symbolen); **Dienstanbieter:** Die Google Fonts
+    werden auf unserem Server gehostet, es werden keine Daten an
+    Google übermittelt; **Rechtsgrundlagen:** Berechtigte Interessen
+    (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).
 
 ## Änderung und Aktualisierung der Datenschutzerklärung {#m15}
 

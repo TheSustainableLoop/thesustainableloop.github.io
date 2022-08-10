@@ -467,27 +467,14 @@ information from other sources.
 
 - **Font Awesome (provision on own server):** Representation
     of fonts and icons; **Service provider:** The Font Awesome
-    icons are hosted on our server, no data is transmitted to the
-    transmitted to the provider of Font Awesome; **Legal basis:**
+    icons are hosted on our server, no data is transmitted
+    to the provider of Font Awesome; **Legal basis:**
     Legitimate interests (Art. 6 para. 1 p. 1 lit. f. DSGVO).
-- **Google Fonts (obtained from Google server):** Obtaining fonts (and
-    symbols) for the purpose of a technically secure, maintenance-free and
-    efficient use of fonts and symbols with regard to their
-    timeliness and loading times, their uniform presentation and
-    consideration of possible restrictions under licensing law. The
-    provider of the fonts is informed of the IP address of the user
-    the user's IP address so that the fonts can be made available in the user's
-    can be made available in the user's browser. In addition, technical
-    data (language settings, screen resolution, operating system,
-    used hardware) are transmitted, which are required for the provision of the
-    necessary for the provision of the fonts depending on the devices used and the
-    technical environment; **service provider:** Google
-    Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland,
-    Parent company: Google LLC, 1600 Amphitheatre Parkway, Mountain
-    View, CA 94043, USA; **Legal basis:** Legitimate interests.
-    (Art. 6 para. 1 p. 1 lit. f. DSGVO); **Website:**.
-    <https://fonts.google.com/>; **Privacy Policy:**.
-    <https://policies.google.com/privacy>.
+- **Google Fonts (provision on own server):** Representation
+    of fonts (and symbols); **Service provider:** The Google Fonts
+    are hosted on our server, no data is transmitted to Google;
+    **Legal basis:** Legitimate interests
+    (Art. 6 para. 1 p. 1 lit. f. DSGVO).
 
 ## Amendment and update of the privacy policy {#m15}
 
