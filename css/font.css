@@ -1,0 +1,32 @@
+@font-face {
+	font-family: 'Comfortaa';
+	font-style: normal;
+	font-weight: 300;
+	src:
+		/* from https://fonts.gstatic.com/s/comfortaa/v40/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4TbMDrMfIA.woff2 */
+		url('../webfonts/Comfortaa_300.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/s/comfortaa/v40/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4TbMDrMfJg.woff */
+		url('../webfonts/Comfortaa_300.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/comfortaa/v40/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4TbMDrMfJA.eot */
+		url('../webfonts/Comfortaa_300.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/l/font?kit=1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4TbMDrMfJw&skey=45c59603efbe20e8&v=v40#Comfortaa */
+		url('../webfonts/Comfortaa_300.svg#Comfortaa') format('svg'),
+		/* from https://fonts.gstatic.com/s/comfortaa/v40/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4TbMDrMfJQ.ttf */
+		url('../webfonts/Comfortaa_300.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Comfortaa';
+	font-style: normal;
+	font-weight: 600;
+	src:
+		/* from https://fonts.gstatic.com/s/comfortaa/v40/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4bbLDrMfIA.woff2 */
+		url('../webfonts/Comfortaa_600.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/s/comfortaa/v40/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4bbLDrMfJg.woff */
+		url('../webfonts/Comfortaa_600.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/comfortaa/v40/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4bbLDrMfJA.eot */
+		url('../webfonts/Comfortaa_600.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/l/font?kit=1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4bbLDrMfJw&skey=45c59603efbe20e8&v=v40#Comfortaa */
+		url('../webfonts/Comfortaa_600.svg#Comfortaa') format('svg'),
+		/* from https://fonts.gstatic.com/s/comfortaa/v40/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4bbLDrMfJQ.ttf */
+		url('../webfonts/Comfortaa_600.ttf') format('truetype');
+}
