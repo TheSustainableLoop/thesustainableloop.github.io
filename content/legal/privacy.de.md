@@ -143,7 +143,7 @@ durch datenschutzfreundliche Voreinstellungen.
 
 SSL-Verschlüsselung (https): Um Ihre via unserem Online-Angebot
 übermittelten Daten zu schützen, nutzen wir eine SSL-Verschlüsselung.
-Sie erkennen derart verschlüsselte Verbindungen an dem Präfix `https://
+Sie erkennen derart verschlüsselte Verbindungen an dem Präfix `https://`
 in der Adresszeile Ihres Browsers.
 
 ## Übermittlung von personenbezogenen Daten {#m25}
